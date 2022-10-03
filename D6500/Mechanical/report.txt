@@ -1,0 +1,17 @@
+﻿Report Name: C:\Users\muhammadshoaib\Documents\Github\MinFDM\D6500\Mechanical\report.txt
+Report Time: 9/20/2022 4:28:20 PM
+Report Options:
+    Part Names
+
+Select Set #1:
+    Sliding Plate.par:2
+
+Select Set #2:
+    Midlde Plate.par:2
+
+Interferences:
+    1 of 1
+    Sliding Plate.par:2
+    Midlde Plate.par:2
+
+    1 Interferences Detected
